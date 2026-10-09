@@ -30,6 +30,4 @@ The project focuses on the basic design of a variable DC power source and the ro
 
 `Analog Electronics` · `Power Supply Design` · `Circuit Simulation` · `Proteus`
 
-This is an undergraduate engineering project and complements my later circuit-design work in RF/mmWave ICs.
-
-[RFIC Academic Profile](https://aryanaditta.github.io/rfic-academic/) · [GitHub Profile](https://github.com/AryanAditta)
+This is an undergraduate engineering project and complements my broader circuit-design and hardware-design background.
